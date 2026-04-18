@@ -15,3 +15,7 @@ A full-featured desktop application to manage student records using Python GUI a
 -- Persistent database storage
 
 ## 🛠 Tech Stack
+
+-- Python
+-- Tkinter
+-- SQLite
