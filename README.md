@@ -11,3 +11,4 @@ A full-featured desktop application to manage student records using Python GUI a
 
 -- Add, View, Search Students
 -- Update & Delete Records
+-- GUI-based interaction
