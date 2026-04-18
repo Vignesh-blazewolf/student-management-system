@@ -8,3 +8,5 @@ A Python-based desktop application using Tkinter and SQLite to manage student re
 A full-featured desktop application to manage student records using Python GUI and SQLite database.
 
 ## 🚀 Features
+
+-- Add, View, Search Students
