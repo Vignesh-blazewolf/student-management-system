@@ -4,3 +4,5 @@ A Python-based desktop application using Tkinter and SQLite to manage student re
 # Student Management System (Python + SQLite + Tkinter)
 
 ## 📌 Description
+
+A full-featured desktop application to manage student records using Python GUI and SQLite database.
