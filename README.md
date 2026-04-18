@@ -19,3 +19,7 @@ A full-featured desktop application to manage student records using Python GUI a
 -- Python
 -- Tkinter
 -- SQLite
+
+## 🎯 Outcome
+
+-- Built a complete CRUD-based desktop application integrating frontend UI and backend database.
