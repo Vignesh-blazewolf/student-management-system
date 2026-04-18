@@ -13,3 +13,5 @@ A full-featured desktop application to manage student records using Python GUI a
 -- Update & Delete Records
 -- GUI-based interaction
 -- Persistent database storage
+
+## 🛠 Tech Stack
